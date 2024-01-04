@@ -1,4 +1,4 @@
-# coa964aedb71bfeee936412dd
+# poetic-phrase-generator
 
 Quick start:
 
